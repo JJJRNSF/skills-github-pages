@@ -1,5 +1,5 @@
 ---
-Title: Github Page Homepage
+Title: Myblog
 ---
 # Github Pages Skill Homepage  
 ## Add new skill here  
